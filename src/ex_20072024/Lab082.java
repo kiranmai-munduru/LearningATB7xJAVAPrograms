@@ -1,6 +1,6 @@
 package ex_20072024;
 
-public class lab082 {
+public class Lab082 {
     public static void main(String[] args) {
         //conditions and loops
         //if age> 18-->vote, else--> not allowed
